@@ -5,9 +5,9 @@
 /.idea/
 
 # maven
-/api/target/
-/web/target/
-/bss/target/
+/spring-boot-api/target/
+/spring-boot-web/target/
+/spring-boot-bss/target/
 
 # node modules
 /antd/node_modules/
