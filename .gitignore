@@ -1,0 +1,19 @@
+# idea
+*.iml
+*.ipr
+*.iws
+/.idea/
+
+# maven
+/api/target/
+/web/target/
+/bss/target/
+
+# node modules
+/antd/node_modules/
+.project
+.settings
+.classpath
+APP_HOME_IS_UNDEFINED
+catalina.base_IS_UNDEFINED
+version.vm
